@@ -18,4 +18,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VictorHugo&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoCC&layout=compact&langs_count=7&theme=dracula"/>
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats#customization">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoCC&layout=compact&langs_count=7&theme=dracula"/>
+</div>
