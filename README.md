@@ -16,7 +16,7 @@
   </a>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VictorHugo&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VictorHugoCC&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats#customization">
