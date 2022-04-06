@@ -11,9 +11,7 @@
 ### 𝖄𝖔𝖚 𝖈𝖆𝖓 𝖋𝖎𝖓𝖉 𝖒𝖊 𝖆𝖙:
 
 <div text-align="justify">
-  <a href="https://www.linkedin.com/in/victor-hugo-96719a232/" target="_blank">
-    <img height="auto" width="40" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
-  </a>
+  <a href="https://www.linkedin.com/in/victor-hugo-96719a232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VictorHugoCC&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
