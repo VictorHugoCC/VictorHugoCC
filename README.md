@@ -15,6 +15,10 @@
 </div>
 
 <div>
+<img height="180em" src=[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VictorHugoCC1&theme=nightowl)](https://git.io/streak-stats)/>
+</div>
+
+<div>
 
   <a href="https://github.com/anuraghazra/github-readme-stats#customization">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoCC&layout=compact&langs_count=7&theme=dracula"/>
