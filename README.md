@@ -15,7 +15,7 @@
 </div>
 
 <div>
-<img height="180em" src=[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VictorHugoCC1&theme=nightowl)](https://git.io/streak-stats)/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VictorHugoCC1&theme=nightowl)]
 </div>
 
 <div>
