@@ -12,9 +12,9 @@
 
 <div text-align="justify">
   <a href="https://www.linkedin.com/in/victor-hugo-96719a232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VictorHugoCC&theme=nightowl)](https://git.io/streak-stats)
 </div>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VictorHugoCC&theme=nightowl)](https://git.io/streak-stats)
 
 
 <div>
